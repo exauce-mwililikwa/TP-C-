@@ -1,0 +1,9 @@
+F:\pascovich\MES COURS\L1IG\CSHARP avancé\TpTreading\TpTreading\bin\Debug\TpTreading.exe.config
+F:\pascovich\MES COURS\L1IG\CSHARP avancé\TpTreading\TpTreading\bin\Debug\TpTreading.exe
+F:\pascovich\MES COURS\L1IG\CSHARP avancé\TpTreading\TpTreading\bin\Debug\TpTreading.pdb
+F:\pascovich\MES COURS\L1IG\CSHARP avancé\TpTreading\TpTreading\obj\Debug\TpTreading.csprojResolveAssemblyReference.cache
+F:\pascovich\MES COURS\L1IG\CSHARP avancé\TpTreading\TpTreading\obj\Debug\TpTreading.Form1.resources
+F:\pascovich\MES COURS\L1IG\CSHARP avancé\TpTreading\TpTreading\obj\Debug\TpTreading.Properties.Resources.resources
+F:\pascovich\MES COURS\L1IG\CSHARP avancé\TpTreading\TpTreading\obj\Debug\TpTreading.csproj.GenerateResource.Cache
+F:\pascovich\MES COURS\L1IG\CSHARP avancé\TpTreading\TpTreading\obj\Debug\TpTreading.exe
+F:\pascovich\MES COURS\L1IG\CSHARP avancé\TpTreading\TpTreading\obj\Debug\TpTreading.pdb

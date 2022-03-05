@@ -1,0 +1,18 @@
+C:\Users\Ir PISCAS\Documents\Visual Studio 2013\Projects\RappelPoo\Enumerations\LINQ\TARVAUX PRATIQUES\TRAVAILP2\TRAVAILP2\bin\Debug\TRAVAILP2.exe.config
+C:\Users\Ir PISCAS\Documents\Visual Studio 2013\Projects\RappelPoo\Enumerations\LINQ\TARVAUX PRATIQUES\TRAVAILP2\TRAVAILP2\obj\Debug\TRAVAILP2.csprojResolveAssemblyReference.cache
+C:\Users\Ir PISCAS\Documents\Visual Studio 2013\Projects\RappelPoo\Enumerations\LINQ\TARVAUX PRATIQUES\TRAVAILP2\TRAVAILP2\bin\Debug\TRAVAILP2.exe
+C:\Users\Ir PISCAS\Documents\Visual Studio 2013\Projects\RappelPoo\Enumerations\LINQ\TARVAUX PRATIQUES\TRAVAILP2\TRAVAILP2\bin\Debug\TRAVAILP2.pdb
+C:\Users\Ir PISCAS\Documents\Visual Studio 2013\Projects\RappelPoo\Enumerations\LINQ\TARVAUX PRATIQUES\TRAVAILP2\TRAVAILP2\obj\Debug\TRAVAILP2.exe
+C:\Users\Ir PISCAS\Documents\Visual Studio 2013\Projects\RappelPoo\Enumerations\LINQ\TARVAUX PRATIQUES\TRAVAILP2\TRAVAILP2\obj\Debug\TRAVAILP2.pdb
+C:\Users\Ir PISCAS\Documents\Visual Studio 2013\Projects\TRAVAUX  C#\TARVAUX PRATIQUES\TRAVAILP2\TRAVAILP2\bin\Debug\TRAVAILP2.exe.config
+C:\Users\Ir PISCAS\Documents\Visual Studio 2013\Projects\TRAVAUX  C#\TARVAUX PRATIQUES\TRAVAILP2\TRAVAILP2\obj\Debug\TRAVAILP2.exe
+C:\Users\Ir PISCAS\Documents\Visual Studio 2013\Projects\TRAVAUX  C#\TARVAUX PRATIQUES\TRAVAILP2\TRAVAILP2\obj\Debug\TRAVAILP2.pdb
+C:\Users\Ir PISCAS\Documents\Visual Studio 2013\Projects\TRAVAUX  C#\TARVAUX PRATIQUES\TRAVAILP2\TRAVAILP2\bin\Debug\TRAVAILP2.exe
+C:\Users\Ir PISCAS\Documents\Visual Studio 2013\Projects\TRAVAUX  C#\TARVAUX PRATIQUES\TRAVAILP2\TRAVAILP2\bin\Debug\TRAVAILP2.pdb
+C:\Users\Ir PISCAS\Documents\Visual Studio 2013\Projects\TRAVAUX  C#\TARVAUX PRATIQUES\TRAVAILP2\TRAVAILP2\obj\Debug\TRAVAILP2.csprojResolveAssemblyReference.cache
+G:\tp\TRAVAILP2\TRAVAILP2\bin\Debug\TRAVAILP2.exe.config
+G:\tp\TRAVAILP2\TRAVAILP2\obj\Debug\TRAVAILP2.exe
+G:\tp\TRAVAILP2\TRAVAILP2\obj\Debug\TRAVAILP2.pdb
+G:\tp\TRAVAILP2\TRAVAILP2\bin\Debug\TRAVAILP2.exe
+G:\tp\TRAVAILP2\TRAVAILP2\bin\Debug\TRAVAILP2.pdb
+G:\tp\TRAVAILP2\TRAVAILP2\obj\Debug\TRAVAILP2.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\Mes documents\Mes projets\C#\Linksql\Linksql\bin\Debug\Linksql.exe.config
+D:\Mes documents\Mes projets\C#\Linksql\Linksql\bin\Debug\Linksql.exe
+D:\Mes documents\Mes projets\C#\Linksql\Linksql\bin\Debug\Linksql.pdb
+D:\Mes documents\Mes projets\C#\Linksql\Linksql\obj\Debug\Linksql.csprojResolveAssemblyReference.cache
+D:\Mes documents\Mes projets\C#\Linksql\Linksql\obj\Debug\Linksql.Form1.resources
+D:\Mes documents\Mes projets\C#\Linksql\Linksql\obj\Debug\Linksql.Properties.Resources.resources
+D:\Mes documents\Mes projets\C#\Linksql\Linksql\obj\Debug\Linksql.csproj.GenerateResource.Cache
+D:\Mes documents\Mes projets\C#\Linksql\Linksql\obj\Debug\Linksql.exe
+D:\Mes documents\Mes projets\C#\Linksql\Linksql\obj\Debug\Linksql.pdb
